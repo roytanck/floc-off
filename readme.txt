@@ -1,8 +1,8 @@
 === Disable Topics API ===
 Contributors: roytanck
-Tags: google, topics, api, topics api, privacy, tracking
+Tags: google, topics api, privacy, tracking
 Requires at least: 4.9
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6
 Stable tag: 1.3
 License: GPLv3
